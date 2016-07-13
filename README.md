@@ -7,7 +7,7 @@
 /*引入fs文件处理模块*/
 
  
-
+```
     var
     	fs = require("fs"),
     	path = require("path");
@@ -90,3 +90,4 @@ fs.watch('./src/common/footer.html' , function(event) {
 //         start()
 //     }
 // });
+```
