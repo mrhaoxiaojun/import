@@ -2,12 +2,9 @@
 
 > import 做html公共模块导入操作,自己手写，如果用gulp的同学可以用 gulp-file-include
 
-
-
-/*引入fs文件处理模块*/
-
  
 ```
+/*引入fs文件处理模块*/
     var
     	fs = require("fs"),
     	path = require("path");
